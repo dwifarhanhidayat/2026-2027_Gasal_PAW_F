@@ -1,5 +1,5 @@
 <?php 
-	$weight = array("Andy"=>"70", "Barry"=>"65", "Charlie"=>"75");
+	$weight = ["Andy"=>"70", "Barry"=>"65", "Charlie"=>"75"];
 	$nama = array_keys($weight);
 	$panjang = count($weight);
 	$values = array_values($weight);

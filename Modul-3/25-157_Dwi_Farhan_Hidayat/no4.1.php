@@ -1,5 +1,5 @@
 <?php 
-	$height = array("Andy"=>"176", "Barry"=>"165", "Carlie"=>"170");
+	$height = ["Andy"=>"176", "Barry"=>"165", "Carlie"=>"170"];
 	$height["David"] = "180";
 	$height["Ethan"] = "172";
 	$height["Frank"] = "168";

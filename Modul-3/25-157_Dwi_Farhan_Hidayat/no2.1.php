@@ -1,5 +1,5 @@
 <?php 
-	$fruits = array("Avocado", "Blueberry", "Cherry");
+	$fruits = ["Avocado", "Blueberry", "Cherry"];
 	array_push($fruits, "Semangka", "Melon", "Pepaya", "Mangga", "Duku");
 	$arrlength = count($fruits);
 	echo "Panjang array saat ini : $arrlength<br><br>";
